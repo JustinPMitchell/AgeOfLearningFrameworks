@@ -1,8 +1,7 @@
 # ABCMouse Frameworks
 
 ![picture](./images/Landing.png)
-![picture](./images/Expanding.png)
-![picture](./images/Responsive.png)
+
 
 View different standards and how they correlate with ABCmouse.
 
@@ -37,19 +36,15 @@ View different standards and how they correlate with ABCmouse.
 
 ## Interesting Notes
 
-* New meal plans are generated each week
-* The user can generate a meal plan from their profile page
-* The user can adjust their settings as they lose or gain weight to see their individual macronutrient suggestions
+### Responsive Design - Utilizes Materialize Framework
+![picture](./images/Responsive.png)
 
-## Next Steps
-
-* Create meal plans based on user preferences
-* Meal should be displayed on calendar until the amount of servings are out
+### Components are built with Expanding Feature
+![picture](./images/Expanding.png)
 
 ## Authors
 
 * [JustinPMitchell](https://github.com/JustinPMitchell)
-
 
 ## Acknowledgments
 
