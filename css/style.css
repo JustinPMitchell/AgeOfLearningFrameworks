@@ -1,0 +1,64 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+.center, .center-align {
+    margin: auto;
+}
+.hamburger {
+    color: black;
+}
+.prek.collapsible-header {
+    background-color: blue;
+}
+.prek.collapsible-body {
+    background-color: lightblue;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.collapsible-header {
+    min-height: 300px;
+}
+.collapsible-header .center {
+    margin-top: 0px !important;
+}
+ul {
+    color: white !important;
+}
+.icon-block:hover {
+    color: #03a9f4;
+}
+.scopeTileWrapper:hover {
+    color: #03a9f4;
+}
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url(http://fonts.gstatic.com/s/materialicons/v10/2fcrYFNaTjcS6g4U3t-Y5UEw0lE80llgEseQY3FEmqw.woff2) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}

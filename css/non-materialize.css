@@ -1,0 +1,33 @@
+.hamburger {
+    color: black;
+}
+.prek.collapsible-header {
+    background-color: blue;
+}
+.prek.collapsible-body {
+    background-color: lightblue;
+}
+.collapsible-header {
+    min-height: 300px;
+}
+.collapsible-header .center {
+    margin-top: 0px !important;
+}
+.scopeCollapse {
+	min-height: 300px;
+}
+.scopeTitle {
+    min-height: 80px;
+}
+ul {
+    color: white !important;
+}
+.icon-block:hover {
+    color: #03a9f4;
+}
+.scopeTileWrapper:hover {
+    color: #03a9f4;
+}
+i.material-icons:hover {
+    color: #03a9f4;
+}
